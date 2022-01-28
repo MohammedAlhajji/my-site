@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammed Alhajji - Personal Blog</title>
+    <link>https://alhajji.xyz/</link>
+    <description>Recent content on Mohammed Alhajji - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2023 20:55:59 +0300</lastBuildDate><atom:link href="https://alhajji.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Party</title>
+      <link>https://alhajji.xyz/posts/welcome-to-the-party/</link>
+      <pubDate>Mon, 02 Oct 2023 20:55:59 +0300</pubDate>
+      
+      <guid>https://alhajji.xyz/posts/welcome-to-the-party/</guid>
+      <description>Tomfoolery Hi! 👋
+Tomfoolery is what I intend to do here. While it may serve for me to document the random things that I encounter, this site truly only exists for me to engage in Tomfoolery.
+Thomas Skelton was a fool, who would sit under a tree, and whenever travelers asked him for directions, if he didn&amp;rsquo;t like them, he&amp;rsquo;d point them to their death in the quicksands of River Esk.</description>
+    </item>
+    
+  </channel>
+</rss>
