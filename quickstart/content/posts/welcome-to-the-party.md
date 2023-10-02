@@ -16,4 +16,4 @@ But the **truth** is that _Thomas fatuus_, a foolish "Tom," appeared in records 
 
 Tomfoolery has shifted in meaning over the years; it used to mean a stupid or half-witted person, and then it meant a clown or a fool; but, now, it's a drop of silliness, a hint of goofiness, a pinch of horseplay, a small bit of funny doings, or simple unseriousness.
 
->Long story short: Tomfoolery will be had.
+*Long story short: Tomfoolery will be had.*
