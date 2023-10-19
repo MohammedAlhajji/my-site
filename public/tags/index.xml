@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mohammed Alhajji - Personal Blog</title>
+    <title>Tags on Mohammed Alhajji</title>
     <link>https://alhajji.xyz/tags/</link>
-    <description>Recent content in Tags on Mohammed Alhajji - Personal Blog</description>
+    <description>Recent content in Tags on Mohammed Alhajji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://alhajji.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

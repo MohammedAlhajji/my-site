@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mohammed Alhajji - Personal Blog</title>
+    <title>Posts on Mohammed Alhajji</title>
     <link>https://alhajji.xyz/posts/</link>
-    <description>Recent content in Posts on Mohammed Alhajji - Personal Blog</description>
+    <description>Recent content in Posts on Mohammed Alhajji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Oct 2023 20:55:59 +0300</lastBuildDate><atom:link href="https://alhajji.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Oct 2023 20:41:47 +0300</lastBuildDate><atom:link href="https://alhajji.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirates of the Arabian</title>
+      <link>https://alhajji.xyz/posts/pirate-of-the-arabian/</link>
+      <pubDate>Thu, 19 Oct 2023 20:41:47 +0300</pubDate>
+      
+      <guid>https://alhajji.xyz/posts/pirate-of-the-arabian/</guid>
+      <description>Pirates of the Arabian A couple of months ago, Inception, a G42 company, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Cerebras Systems, an archaeologist, a server at Wingstop, and a forklift operator announced the release of JAIS, supposedly the best open-source Arabic model for its size.
+The Dataset The model was pretrained on approximately 33% Arabic text; this text contains wiki articles, news articles, Arabic books, and social media content.</description>
+    </item>
+    
     <item>
       <title>Welcome to the Party</title>
       <link>https://alhajji.xyz/posts/welcome-to-the-party/</link>
