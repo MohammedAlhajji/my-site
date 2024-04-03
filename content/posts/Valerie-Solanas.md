@@ -4,8 +4,6 @@ date = 2023-04-03T20:55:59+03:00
 draft = false
 +++
 
-# Valerie Solanas
-
 Valerie Solanas dreamt of a world with no men. Her legacy and life, however, were marred by a constant portrayal of her as an ancillary act in the grand play of other men.
 
 It's important, I think, to distinguish the art from the artist in this particular case. Valerie was a precocious yet troubled child. We know her father sexually abused her when she was a child. By the time she turned 15, in 1951, she had a girl whom her parents raised as her sister, and a boy whom she placed for adoption. Three years later, she enrolled in a psychology program at The University of Maryland and then pursued a master's degree at the University of Minnesota, where she dropped out, fearing that her work wouldn't receive the funding men received.
