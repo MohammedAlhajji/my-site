@@ -4,9 +4,6 @@ date = 2023-04-03T20:55:59+03:00
 draft = false
 +++
 
-Here is the corrected text with improved markdown visualization:
-
-
 # Valerie Solanas
 
 Valerie Solanas dreamt of a world with no men. Her legacy and life, however, were marred by a constant portrayal of her as an ancillary act in the grand play of other men.
